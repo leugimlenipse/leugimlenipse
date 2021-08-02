@@ -6,11 +6,12 @@ My main project is Good Game (GG), a web platform where you can find gaming comm
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on New project ideas
+- 🐍 Python is my main language, but i also know some C++, Java and JavaScript
+- 💻 basic-internediate knowledge in HTML5 and CSS3
+- 🔭 I’m currently working on new project ideas
 - 🌱 I’m currently learning JavaScript, Django and NoSQL databases
-- 👯 I’m looking to collaborate on Any project where i can use my skills and learn new ones.
-<!--- 🤔 I’m looking for help with -->
-- 💬 Ask me about my project!
+- 👯 I’m looking to collaborate on any project where i can use my skills and learn new ones.
+- 💬 Ask me about my project Good Game!
 - 📫 How to reach me: miguele2141@gmail.com
 - ⚡ Fun fact: I have never broken an arm, leg or wrist, but i do have a broken teeth.
-
+<!--- 🤔 I’m looking for help with -->
