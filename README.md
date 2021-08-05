@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project where i can use my skills and learn new ones.
 - 💬 Ask me about my project Good Game!
 - 📫 How to reach me: miguele2141@gmail.com
-- ⚡ Fun fact: I have never broken an arm, leg or wrist, but i do have a broken teeth.
+- ⚡ Fun fact: I have never broken an arm, leg or wrist, but i do have a broken tooth.
 <!--- 🤔 I’m looking for help with -->
