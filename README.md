@@ -2,7 +2,7 @@
 
 I'm a Systems Engineering student, i like everything related to backend and software development such as databases, networks and security. Although i'm not an expert, i love to learn new things and understand how everything works.
 
-My main project is <a href="https://goodgameweb.herokuapp.com">Good Game (GG)</a>, a web platform where you can find gaming communities and connect with other players via the communities social networks; it was developed by me using Flask.
+My main project is <a href="https://goodgameweb.herokuapp.com" target="_blank">Good Game (GG)</a>, a web platform where you can find gaming communities and connect with other players via the communities social networks; it was developed by me using Flask.
 
 Here are some ideas to get you started:
 
