@@ -7,7 +7,7 @@ My main project is <a href="https://goodgameweb.herokuapp.com" target="_blank">G
 Here are some ideas to get you started:
 
 - 🐍 Python is my main language, but i also know some C++, Java and JavaScript
-- 💻 basic-internediate knowledge in HTML5 and CSS3
+- 💻 basic-internediate knowledge in HTML5 and CSS3 
 - 🔭 I’m currently working on new project ideas
 - 🌱 I’m currently learning JavaScript, Django and NoSQL databases
 - 👯 I’m looking to collaborate on any project where i can use my skills and learn new ones.
