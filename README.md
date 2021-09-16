@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🐍 Python is my main language, but i also know some C++, Java and JavaScript
 - 💻 basic-internediate knowledge in HTML5 and CSS3 
 - 🔭 I’m currently working on new project ideas
-- 🌱 I’m currently learning JavaScript, Django and NoSQL databases
-- 👯 I’m looking to collaborate on any project where i can use my skills and learn new ones.
+- 🌱 I’m currently learning JavaScript, Rest Api development (Node.js) and NoSQL databases
+- 👯 I’m looking to collaborate on any project where i can help and learn new things.
 - 💬 Ask me about my project Good Game!
 - 📫 How to reach me: miguele2141@gmail.com
 - ⚡ Fun fact: I love cookies.
