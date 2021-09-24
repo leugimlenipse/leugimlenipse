@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project where i can help and learn new things.
 - 💬 Ask me about my project Good Game!
 - 📫 How to reach me: miguele2141@gmail.com
-- ⚡ Fun fact: I love cookies.
 <!--- 🤔 I’m looking for help with -->
